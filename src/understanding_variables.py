@@ -22,7 +22,7 @@ los nombres de variables deben  nombrarse solo con :
 -deben comensar con una letra o un guion bajo
 -no utilizar espacios para separar palabras en variables (_).
 - no utilizar palabras reservadas en python o el nombre del archivo 
-como nombre de variables 
+como nombre de variables
 -los nombres deben ser cortos, pero descriptivos
 -letras minusculas, por ahora.
 
@@ -34,6 +34,6 @@ Incorrecto: 1_message
 """
 
 messag = "Hola amigo python" 
-print(mesag)
+print(messag)
 
 
